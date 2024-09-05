@@ -889,7 +889,7 @@ fieldset[disabled] a.btn {
 ------------------------------------------------------------- */
 .btn.btn-rounded,
 .btn.btn-rounded::after {
-  border-radius: 10px;
+  border-radius: 0px;
 }
 
 .btn.btn-pill,
