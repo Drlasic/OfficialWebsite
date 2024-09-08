@@ -2255,3 +2255,30 @@ iconify-icon.signup-social-icon{
 .profile-img{
   box-shadow: 0px 4px 44px 0px rgba(255, 255, 255, 0.08);
 }
+
+.containeryt {
+  display: flex;
+  width: 100%;
+
+}
+
+.rightdiv {
+  width: 60%;
+  padding-left: 2%;
+  align-content: center;
+
+
+}
+
+.leftdiv {
+  width: 38%;
+  padding-left: 2%;
+
+}
+.player {
+  width:100%;
+  aspect-ratio: 16 / 9;
+  align-content: center;
+}
+
+
